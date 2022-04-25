@@ -5,7 +5,6 @@ class GreetingComponent extends Component {
   state = {
     name: 'dev',
   };
-
   render() {
     return (
       <div>

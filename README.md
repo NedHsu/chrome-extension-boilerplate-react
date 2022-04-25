@@ -149,3 +149,6 @@ ApiCall({ key: secrets.key });
 ---
 
 Michael Xieyang Liu | [Website](https://lxieyang.github.io)
+
+頁面溝通
+1. chrome.runtime.sendMessage -> onMessage
